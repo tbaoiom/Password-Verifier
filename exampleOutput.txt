@@ -1,0 +1,3 @@
+(Note: The password must be [8-12] characters long, have at least 1 uppercase letter, contain a digit that is not [0,1,7], and must contain at least 1 special character {!@#$%^&*()_+})
+Enter a password:
+It worked! The password is: @JohnSmith2
